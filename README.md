@@ -1,3 +1,4 @@
+<pre>  
   / ____/ __ \|  \/  | |/ /_   _| |    | |    |  ____|  __ \ 
  | |   | |  | | \  / | ' /  | | | |    | |    | |__  | |__) |
  | |   | |  | | |\/| |  <   | | | |    | |    |  __| |  _  / 
@@ -9,8 +10,9 @@
                       CODED BY N4RK0Z4                       
                                                              
                       DATE: 20/01/2026            
+</pre>
 
 ---
 
 Simple virus written in Turbo Pascal 7.0 which destroy DOS/Win3.x/Win9x systems. 
-The virus was written for educational purposes, you compile at your own risk. 
+The virus was written for educational purposes, you compile at your own risk.
